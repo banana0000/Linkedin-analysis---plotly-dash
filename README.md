@@ -1,2 +1,2 @@
-# Linkedin-analysis---plotly-dash
+# Linkedin-analysis-plotly-dash
 Youtube project
